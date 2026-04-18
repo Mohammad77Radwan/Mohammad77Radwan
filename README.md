@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Mohammad Radwan</h1>
-  <h3>Développeur Logiciel | Spécialiste Backend & Systèmes</h3>
+  <h3>Développeur Logiciel | Backend & Systèmes</h3>
   <p><em>Saint-Étienne, France | En recherche de nouveaux défis techniques</em></p>
   <a href="https://mohammadradwanportfolio.netlify.app/"><strong>Voir mon Portfolio en ligne</strong></a>
 </div>
