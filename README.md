@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Développeur+Logiciel;Étudiant+en+Ingénierie;Spécialiste+Backend+%26+Systèmes;Passionné+par+le+Clean+Code" alt="Typing Animation" />
-</div>
-
-<div align="center">
+  <h1>Mohammad Radwan</h1>
+  <h3>Développeur Logiciel | Spécialiste Backend & Systèmes</h3>
   <p><em>Saint-Étienne, France | En recherche de nouveaux défis techniques</em></p>
   <a href="https://mohammadradwanportfolio.netlify.app/"><strong>Voir mon Portfolio en ligne</strong></a>
 </div>
@@ -47,10 +45,3 @@ Je conçois des systèmes robustes et des interfaces dynamiques, avec une attent
 
 * **[Morefix WebStore](https://github.com/Mohammad77Radwan/Morefix_WebStore)** Architecture e-commerce full-stack moderne avec authentification et routage dynamique.
   > *Technologies : Next.js, React, Firebase, Tailwind CSS*
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad77Radwan&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&date_format=j%20M%20Y" height="170" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad77Radwan&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&langs_count=6" height="170" alt="Top Languages" />
-</div>
