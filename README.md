@@ -7,7 +7,9 @@
 
 <br>
 
-Je conçois des systèmes robustes et des interfaces dynamiques, avec une attention particulière au code propre, à la programmation concurrente et à l'intégration de l'IA. Mon objectif est de faire le pont entre l'ingénierie backend à faible latence et une expérience utilisateur fluide.
+Spécialisé dans les architectures backend (Go, Node.js), les systèmes distribués et les applications web modernes (Next.js, React). Je conçois des systèmes robustes avec une attention particulière à la faible latence (<1ms), à la programmation concurrente et à l'intégration de l'IA (Pipelines RAG). Mon objectif est de faire le pont entre l'ingénierie backend à haute disponibilité et une expérience utilisateur fluide.
+
+**Actuellement à la recherche d'une entreprise d'accueil pour valider ma L3 Informatique en alternance (Septembre 2026).**
 
 ---
 
